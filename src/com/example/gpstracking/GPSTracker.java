@@ -25,6 +25,7 @@ public class GPSTracker extends Service implements LocationListener {
 
 	// flag for GPS status
 	// asddsa
+//hello
 	boolean canGetLocation = false;
 
 	Location location; // location
